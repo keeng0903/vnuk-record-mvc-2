@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Contact added</title>
 </head>
 <body>
 
-	<h1>Contact ${contact.name} successfully added.</h1>
+	<h1>Contact successfully added.</h1>
 	
 	<div>
-		<a href="http://localhost:8080/vnuk-record-mvc/read-contacts.jsp">Back to records.</a>
+		<a href="http://localhost:8080/vnuk-record-mvc">Back to menu.</a>
 	</div>
 </body>
 </html>

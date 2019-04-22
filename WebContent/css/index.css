@@ -18,4 +18,24 @@ a, a:visited {
 .my-tr-gold, .my-tr-red { color: #111; }
 .my-tr-gold a, .my-tr-red a { color: #fff; }
 
-td { padding: 10px; }
+td { padding: 10px; border: 1px solid #000;}
+
+th{
+  text-align: center;
+  background-color: #79FFAF;
+}
+
+
+#show {
+	background-color: white;
+	color: black;
+}
+
+#return {
+	background-color: white;
+	color: black;
+}
+
+#update {
+	background-color: blue;
+}

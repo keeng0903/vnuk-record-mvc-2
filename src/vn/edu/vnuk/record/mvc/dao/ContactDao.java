@@ -101,7 +101,7 @@ public class ContactDao {
 
     //  READ (Single Contact)
     @SuppressWarnings("finally")
-    public Contact read(int id) throws SQLException{
+    public Contact read(long id) throws SQLException{
 
         String sqlQuery = "select * from contacts where id=?";
 
